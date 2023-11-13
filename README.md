@@ -33,6 +33,9 @@
 - [react](https://reactjs.org/): JavaScript library for building user interfaces
 - [react-dom](https://reactjs.org/docs/react-dom.html): Entry point to the DOM and server rendering for React
 - [react-scripts](https://www.npmjs.com/package/react-scripts): Configuration and scripts for Create React App
+- [Express](https://expressjs.com/): Fast, unopinionated, minimalist web framework for Node.js.
+- [Mongoose](https://mongoosejs.com/): Elegant MongoDB object modeling for Node.js.
+- [cors](https://www.npmjs.com/package/cors): Express middleware to enable Cross-Origin Resource Sharing (CORS).
 
 ## Dev-dependencies
 
