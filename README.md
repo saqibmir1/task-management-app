@@ -9,8 +9,6 @@
 - [Prerequisites](#prerequisites)
 - [Installation and Setup](#installation-and-setup)
 - [Backend API](#backend-api)
-- [Frontend Pages](#frontend-pages)
-- [Useful Links](#useful-links)
 
 ## Features
 
